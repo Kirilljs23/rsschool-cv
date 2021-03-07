@@ -7,7 +7,7 @@ Hello. I'm 24 y.o. and I want to be an front-end developer. When I first encount
 * Time managment
 * Fast-learning
 * Team work
-* 
+
 ### Professional skills: ###
 * HTML5
 * CSS3
