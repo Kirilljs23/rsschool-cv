@@ -14,4 +14,4 @@ Hello. I'm 24 y.o. and I want to be an front-end developer. When I first encount
 * GIT
 
 ### Contacts ###
-###### Phone: +375333413896 ######
+###### Phone: +375333413896 ([Telegram](https://t.me/kirilljs23)) ######
