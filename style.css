@@ -29,6 +29,8 @@
     border-radius: 100px;
     border: 2px solid white;
     margin: 40px 0 0 0;
+    height: 125px;
+    width: 125px;
 }
 
 .name {
@@ -43,20 +45,13 @@
 
 .main, .about-me, .portfolio, .contacts {
     display: flex;
-    justify-content: center;
-    align-items: center;
     font-family: "Calisto MT";
     font-size: 28px;
     color: white;
-}
-
-button {
     width: 12vw;
     height: 3vw;
     background-color: rgba(0, 0, 0, 0);
-    display: flex;
     margin: 0px 0 0px 0;
-    border: none;
     border: white 2px solid;
 }
 
@@ -66,6 +61,20 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+.main-a, .about-me-a, .portfolio-a, .contacts-a {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+.main:hover, .about-me:hover, .portfolio:hover, .contacts:hover {
+    /* box-shadow: 0 2rem 5rem rgba(255, 255, 255, 0.8); */
+    border: 1px solid white;
 }
 
 .navigation-panel li {
